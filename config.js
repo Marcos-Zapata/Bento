@@ -114,8 +114,8 @@ const CONFIG = {
         link: 'https://web.whatsapp.com/',
       },
       {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
+        name: 'Gmail',
+        link: 'https://mail.google.com/mail/u/0/#inbox',
       },
       {
         name: 'Telegram',
