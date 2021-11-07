@@ -11,7 +11,7 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'John',
+  name: 'Marcos',
   imageBackground: false,
   openInNewTab: true,
   twelveHourFormat: false,
@@ -26,7 +26,7 @@ const CONFIG = {
   weatherKey: 'InsertYourAPIKeyHere123456',
   weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
   weatherUnit: 'C', // 'F', 'C'
-  language: 'en', // More languages in https://openweathermap.org/current#multi
+  language: 'es', // More languages in https://openweathermap.org/current#multi
 
   trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
   defaultLatitude: '37.775',
@@ -48,7 +48,7 @@ const CONFIG = {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      link: 'https://www.upm.es/webmail_alumnos/?_task=mail&_mbox=INBOX',
     },
     {
       id: '3',
@@ -70,9 +70,9 @@ const CONFIG = {
     },
     {
       id: '6',
-      name: 'Odysee',
+      name: 'Youtube',
       icon: 'youtube',
-      link: 'https://odysee.com/',
+      link: 'https://www.youtube.com/',
     },
   ],
 
