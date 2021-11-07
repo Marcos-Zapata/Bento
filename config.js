@@ -110,8 +110,8 @@ const CONFIG = {
         link: 'https://linkedin.com/',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: 'Wasap',
+        link: 'https://web.whatsapp.com/',
       },
       {
         name: 'Dribbble',
