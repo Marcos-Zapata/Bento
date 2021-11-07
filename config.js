@@ -52,9 +52,9 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'Todoist',
-      icon: 'trello',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'Moodle',
+      icon: 'home',
+      link: 'https://moodle.upm.es/titulaciones/oficiales/login/login.php',
     },
     {
       id: '4',
