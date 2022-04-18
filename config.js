@@ -110,7 +110,7 @@ const CONFIG = {
         link: 'https://linkedin.com/',
       },
       {
-        name: 'Wasap',
+        name: 'WhatsApp',
         link: 'https://web.whatsapp.com/',
       },
       {
